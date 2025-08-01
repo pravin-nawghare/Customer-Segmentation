@@ -1,7 +1,8 @@
 
 # Project Title
+## Customer Insights Analyzer: Cohort and RFM Analysis
 
-Customer Insights Analyzer: Cohort and RFM Analysis
+![Customer Segmentation](https://github.com/pravin-nawghare/Customer-Segmentation/blob/main/Customer%20Segmentation.png)
 
 ## Index
 - [Overview](#Overview)
